@@ -1,4 +1,4 @@
-# Usefull-bat-file
-Very usefull bat file trust me
+# Useful-bat-file
+Very useful bat file trust me
 
 Ctrl + C to stop the command
